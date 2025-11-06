@@ -1,0 +1,37 @@
+# Logs and temporary files
+*.log
+tmp*
+*.tmp
+
+# Compiled source code
+*.apk
+*.ipa
+*.d
+*.o
+*.class
+*.dex
+
+# Flutter related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Firebase related
+android/google-services.json
+ios/GoogleService-Info.plist
